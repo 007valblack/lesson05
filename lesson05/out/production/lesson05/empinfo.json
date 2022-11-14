@@ -1,0 +1,19 @@
+{
+  "empinfo":
+  {
+    "employees": [
+      {
+        "name": "JamesKirk",
+        "age": 40
+      },
+      {
+        "name": "Jean-Luc Picard",
+        "age": 45
+      },
+      {
+        "name": "WesleyCrusher",
+        "age": 27
+      }
+    ]
+  }
+}
